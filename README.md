@@ -11,6 +11,6 @@ node index.js
 ```
 After that you can to contact the bot using simple syntax constion:
 ```
-/Remembermeplz (your_text (like --to drink beer with friends--)) at (your_time (like --10.22--))
+/remembermeplz (your_text (like --to drink beer with friends--)) at (your_time (like --10.22--))
 ```
 And that's all) Try it))
