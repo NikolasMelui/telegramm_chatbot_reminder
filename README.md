@@ -16,5 +16,6 @@ node index.js
 After that you can to contact the bot using simple syntax construction:
 ```
 /remembermeplz (your_text (like --to drink beer with friends--)) at (your_time (like --10.22--))
+/remembermeplz to drink beer with friends at 10.22
 ```
 And that's all! GL and HF)
