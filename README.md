@@ -3,6 +3,10 @@ Reminder chat bot for telegram that will help you not to forget some important t
 <h2>Motivation</h2>
 <p>I'm just trying to write a simple bot, nothing more!))</p>
 <h3>Usage</h3>
+Don't forget to install dep's by using:
+```
+npm install  
+```
 1: You need to have a simple chat bot in telegramm messenger,
 2: Put in into index.js file (you can find where ;D) 
 3: Run in terminal
