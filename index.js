@@ -1,6 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const config = require('./config.json');
-const token = '<put here your token>';
+const token = '<put your token here>';
 const bot = new TelegramBot(token, {polling: true});
 
 bot.onText(/\/echo (.+)/, function(msg, match) {
@@ -11,7 +10,7 @@ bot.onText(/\/echo (.+)/, function(msg, match) {
 
 var notes = [];
 
-bot.onText(/\/Remembermeplz (.+) at (.+)/, function(msg, match) {
+bot.onText(/\/remembermeplz (.+) at (.+)/, function(msg, match) {
   var userId = msg.from.id; // sender ID
   var text = match[1]; // sender text (what he wants not to forget)
   var time = match[2]; // time to remind!
