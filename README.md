@@ -9,12 +9,12 @@ npm install
 ```
 1. You need to have a simple chat bot in telegramm messenger
 2. Put in into index.js file (you can find where ;D)
-3. Run in terminal
+3. Run our code in terminal:
 ```
 node index.js  
 ```
-After that you can to contact the bot using simple syntax constion:
+After that you can to contact the bot using simple syntax construction:
 ```
 /remembermeplz (your_text (like --to drink beer with friends--)) at (your_time (like --10.22--))
 ```
-And that's all) Try it))
+And that's all! GL and HF)
