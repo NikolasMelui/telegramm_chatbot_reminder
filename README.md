@@ -7,9 +7,9 @@ Don't forget to install dep's by using:
 ```
 npm install  
 ```
-1: You need to have a simple chat bot in telegramm messenger,
-2: Put in into index.js file (you can find where ;D) 
-3: Run in terminal
+1. You need to have a simple chat bot in telegramm messenger
+2. Put in into index.js file (you can find where ;D)
+3. Run in terminal
 ```
 node index.js  
 ```
